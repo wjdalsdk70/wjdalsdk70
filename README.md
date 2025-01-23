@@ -10,7 +10,7 @@
 ## 📚 Project List
 
 | 기간                     | 프로젝트명                     | 설명              | 역할                     | 형태         |
-|------------------------ |-----------------------------|------------------|-------------------------|-------- ----|
+|------------------------|-----------------------------|------------------|-------------------------|------------|
 | [Project 1](https://github.com/username/project1) | 간단한 설명입니다.        | Python, Flask, SQLAlchemy | [Live Demo](https://example.com) |
 | [Project 2](https://github.com/username/project2) | XYZ를 다룹니다.           | React, Node.js           | [Live Demo](https://example2.com) |
 | [Project 3](https://github.com/username/project3) | 고급 기능을 포함합니다.   | Django, DRF, PostgreSQL  | [Live Demo](https://example3.com) |
