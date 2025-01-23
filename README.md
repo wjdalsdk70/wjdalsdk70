@@ -11,8 +11,8 @@
 
 | 기간                     | 프로젝트명                     | 설명              | 기술 스택                     | 역할 | 형태         |
 |------------------------|-----------------------------|------------------|-------------------------|------------|---|
-| 2024.02 ~ | [CareVoice, CareFlow](https://github.com/username/project1) | Spring Boot | 개발 총괄, 백엔드 리더 | App, Web |
-| 2024.09 ~ 2024.12 | [HELPT](https://github.com/wjdalsdk70/helpt-backend) | Spring Boot | 팀장, 백엔드 리더 | App |
-| 2024.03 ~ 2024.06  | [LibHub](https://github.com/wjdalsdk70/libhub-backend) | Spring Boot  | 백엔드 | Web |
-| 2024.09 ~ 2024.12  | [SoundLink](https://github.com/wjdalsdk70/soundlink_backend) | FastAPI  | 팀장, 백엔드 | App |
-| 2024.09 ~ 2024.12  | [MZ-Robo](https://github.com/wjdalsdk70/mz-robo-backend) | FastAPI | 백엔드 | App |
+| 2024.02 ~ | [CareVoice, CareFlow](https://github.com/username/project1) | 스마트 병원 플랫폼 | Spring Boot | 개발 총괄, 백엔드 리더 | App, Web |
+| 2024.09 ~ 2024.12 | [HELPT](https://github.com/wjdalsdk70/helpt-backend) | 스마트 헬스장 플랫폼 | Spring Boot | 팀장, 백엔드 리더 | App |
+| 2024.03 ~ 2024.06  | [LibHub](https://github.com/wjdalsdk70/libhub-backend) | 라이브러리 관리 서비스 | Spring Boot  | 백엔드 | Web |
+| 2024.09 ~ 2024.12  | [SoundLink](https://github.com/wjdalsdk70/soundlink_backend) | 청각 장애인 위한 플랫폼 | FastAPI  | 팀장, 백엔드 | App |
+| 2024.09 ~ 2024.12  | [MZ-Robo](https://github.com/wjdalsdk70/mz-robo-backend) | MZ 세대를 위한 로보어드바이저| FastAPI | 백엔드 | App |
