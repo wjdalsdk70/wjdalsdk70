@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JM_DEV&fontSize=90)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JM_DEV&fontSize=90" /></div>
+
+<div align="center"><a href="https://www.git-ranker.com"><img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQ4ODMwNTA5" /></a></div>
 
 ## 🛠 Languages and Tools
 
