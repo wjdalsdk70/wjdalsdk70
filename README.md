@@ -6,7 +6,7 @@
   <br/>
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wjdalsdk70&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wjdalsdk70&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" /> />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wjdalsdk70&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" />
 </div>
 
 <br/>
