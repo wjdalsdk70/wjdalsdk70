@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack
 
-### 🚀 Backend & Frameworks
+### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
 </p>
 
-### 💾 Database & DevOps
+### DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
@@ -27,7 +27,7 @@
 
 <br/>
 
-## 📂 Featured Projects
+## 📂 Projects
 
 > **진행 중이거나 주요 성과를 낸 프로젝트들을 소개합니다.**
 
@@ -41,24 +41,8 @@
 - **Role**: **Team Leader**, Backend Development
 - **Tech**: `Spring Boot`, `JPA`, `MySQL`
 
-### 🤖 [MZ-Robo](https://github.com/wjdalsdk70/mz-robo-backend) `2023.09 ~ 2023.12`
-- **Description**: MZ 세대를 위한 데이터 기반 로보어드바이저 서비스
-- **Role**: Backend Development
-- **Tech**: `FastAPI`, `FinTech API`, `Python`
-
-<details>
-<summary><b>▼ 더 많은 프로젝트 보기 (Click)</b></summary>
-
-| 기간 | 프로젝트 | 기술 | 역할 |
-|:---:|:---|:---|:---|
-| 23.06~08 | **SoundLink** (청각장애인 플랫폼) | FastAPI | 팀장, Backend |
-| 24.03~06 | **LibHub** (도서관 관리 서비스) | Spring Boot | Backend |
-
-</details>
-
 <br/>
 
 ## 🧗 Interests & More
 - **AWS**: [Certified Solutions Architect - Associate](https://aws.amazon.com/verification) 취득 (2026)
 - **Bouldering**: 문제를 풀어나가는 즐거움에 빠져있습니다. 🧗‍♂️
-- **Ongoing
