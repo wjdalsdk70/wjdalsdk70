@@ -1,48 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JM_DEV&fontSize=90" />
-  
-  <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQ4ODMwNTA5" />
-</div>
-
-<br/>
-
-## 🛠 Tech Stack
-
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+<p align="center">
+  <img src="https://lume-self.vercel.app/api/card?name=Minty+Kim&role=Frontend+Engineer&tagline=Designing+clean+UX+and+robust+web+apps.&skills=TypeScript%2CReact%2CNext.js%2CTailwind&certs=AWS+SAA%2CSQLD%2C%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC&projects=README+Styler%7CGitHub+README+%EC%B9%B4%EB%93%9C+%EC%83%9D%EC%84%B1+%EC%84%9C%EB%B9%84%EC%8A%A4%7C2026.02+-+%EC%A7%84%ED%96%89%EC%A4%91%7CNext.js%2CTypeScript%2CTailwind%0APortfolio+2.0%7C%EA%B0%9C%EC%9D%B8+%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4+%EB%A6%AC%EB%89%B4%EC%96%BC%7C2025.11+-+2026.01%7CReact%2CVite%2CFirebase&theme=ocean" alt="Minty Kim README Card" />
 </p>
 
-### DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+<p align="center">
+  <a href="https://www.git-ranker.com"><img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQ4ODMwNTA5" alt="Git Rank Badge" /></a>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsdk70" alt="wjdalsdk70 solved.ac profile" />
 </p>
 
-<br/>
-
-## 📂 Projects
-
-> **진행 중이거나 주요 성과를 낸 프로젝트들을 소개합니다.**
-
-### 🏥 [CareVoice & CareFlow](https://github.com/username/project1) `2024.02 ~ Present`
-- **Description**: 스마트 병원 AI 음성 비대면 케어 솔루션 (AI 음성 인식 및 간호 워크플로우 최적화)
-- **Role**: **Development Lead**, Backend Architecture
-- **Tech**: `Spring Boot`, `AI Integration`, `App/Web`
-
-### 🏋️ [HELPT](https://github.com/wjdalsdk70/helpt-backend) `2024.09 ~ 2024.12`
-- **Description**: 스마트 헬스장 통합 관리 및 운동 가이드 플랫폼
-- **Role**: **Team Leader**, Backend Development
-- **Tech**: `Spring Boot`, `JPA`, `MySQL`
-
-<br/>
-
-## 🧗 Interests & More
-- **AWS**: [Certified Solutions Architect - Associate](https://aws.amazon.com/verification) 취득 (2026)
-- **Bouldering**: 문제를 풀어나가는 즐거움에 빠져있습니다. 🧗‍♂️
+<p align="center">
+  <img src="https://lume-self.vercel.app/api/projects-card?projects=README+Styler%7CGitHub+README+%EC%B9%B4%EB%93%9C+%EC%83%9D%EC%84%B1+%EC%84%9C%EB%B9%84%EC%8A%A4%7C2026.02+-+%EC%A7%84%ED%96%89%EC%A4%91%7CNext.js%2CTypeScript%2CTailwind%0APortfolio+2.0%7C%EA%B0%9C%EC%9D%B8+%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4+%EB%A6%AC%EB%89%B4%EC%96%BC%7C2025.11+-+2026.01%7CReact%2CVite%2CFirebase" alt="Minty Kim Projects Card" />
+</p>
