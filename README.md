@@ -1,12 +1,99 @@
+<h1 align="center">Hi, I'm Jeongmin Lee 👋</h1>
+
 <p align="center">
-  <img src="https://lume-self.vercel.app/api/card?name=Minty&role=Backend+Engineer&tagline=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%AF%BC%ED%8B%B0%EC%9E%85%EB%8B%88%EB%8B%A4.+%0A%ED%95%AD%EC%83%81+%EA%B0%9C%EB%B0%9C+%EC%9E%90%EB%8F%99%ED%99%94%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%95%84+AI+Tool%EB%93%A4%EC%9D%84+%EC%9E%90%EC%A3%BC+%EC%95%8C%EC%95%84%EB%B3%B4%EA%B3%A0+%EC%9E%88%EA%B3%A0%0A%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80+%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC+%EA%B2%B8%EB%B9%84%ED%95%98%EA%B3%A0+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%99%80+AI%EC%97%AD%EB%9F%89%EB%8F%84+%EA%BE%B8%EC%A4%80%ED%9E%88+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0+%EA%B0%9C%EB%B0%9C%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C+%0A%EB%AA%A8%EB%93%A0+%EA%B0%9C%EB%B0%9C+%EA%B3%BC%EC%A0%95%EC%9D%84+%EA%B2%80%EC%88%98%ED%95%98%EA%B3%A0+%EB%8B%A4%EB%A3%B0+%EC%88%98+%EC%9E%88%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.&skills=Spring+Boot%2CMySQL%2CRedis%2CMongoDB%2CDocker%2CKubernetes%2CLinux%2CNginx%2CGitHub+Actions%2CFastAPI&projects=CareFlow%7C%EC%8A%A4%EB%A7%88%ED%8A%B8+%EB%B3%91%EC%9B%90+AI+%EC%BC%80%EC%96%B4+%EC%86%94%EB%A3%A8%EC%85%98%7C2024.02+%7E+Present%7CSpring+Boot%2C+JPA%2C+QueryDsl%2C+NCP%2C+Docker%2C+Github+Actions%0AYouTIL%7CCommit+%EA%B8%B0%EB%B0%98+TIL+%EC%83%9D%EC%84%B1+%EC%84%9C%EB%B9%84%EC%8A%A4%7C2025.04+-+2025.08%7CAWS%2C+GCP%2C+Docker%2C+k8s%2C+Github+Actions%2C+ArgoCD%2C+Helm%2C+Terraform%0AHELPT%7C%EC%8A%A4%EB%A7%88%ED%8A%B8+%ED%97%AC%EC%8A%A4%EC%9E%A5+%ED%86%B5%ED%95%A9+%EA%B4%80%EB%A6%AC+%EB%B0%8F+%EC%9A%B4%EB%8F%99+%EA%B0%80%EC%9D%B4%EB%93%9C+%ED%94%8C%EB%9E%AB%ED%8F%BC%7C2024.09+-+%7E+2024.12%7CSpring+Boot%2C+JPA%2C+MySQL&mode=light&theme=amber" alt="Minty README Card" />
+  Backend Developer interested in Cloud Native, DevOps, and AI-powered services.
 </p>
 
 <p align="center">
-  <a href="https://www.git-ranker.com"><img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQ4ODMwNTA5" alt="Git Rank Badge" /></a>
+  <a href="https://www.git-ranker.com">
+    <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQ4ODMwNTA5" alt="Git Rank Badge" />
+  </a>
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsdk70" alt="wjdalsdk70 solved.ac profile" />
 </p>
 
+---
+
+## About Me
+
+- Backend Developer focused on **Java, Spring Boot, Kotlin, and Cloud Native Architecture**
+- Interested in **MSA, Kubernetes, Kafka, CI/CD, and Infrastructure Automation**
+- Experienced in building services with **AWS, GCP, NCP, Docker, Terraform, GitHub Actions**
+- Exploring **AI backend systems**, including STT pipelines, RAG, and LLM-based services
+
+---
+
+## Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & Message Queue
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![NCP](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Projects
+
+### CareMinder
+AI-powered healthcare service for hospital workflow automation.
+
+- Designed backend architecture for patient request, ward, staff, and tablet management
+- Built STT and AI-based medical normalization pipeline
+- Improved service reliability through monitoring, logging, and CI/CD automation
+
+### TechGather
+Tech blog aggregation and crawling platform.
+
+- Built backend crawler pipeline using Kafka-based event processing
+- Designed article collection, parsing, and storage flow
+- Focused on scalable asynchronous processing architecture
+
+### JobCal
+Job application calendar service.
+
+- Designed backend service for job posting collection and calendar integration
+- Built infrastructure and deployment flow for dev/prod environments
+
+---
+
+## Experience & Interests
+
+- Cloud Native Backend Development
+- Microservice Architecture
+- Distributed Systems
+- Kafka-based Event Processing
+- Kubernetes & CI/CD
+- AI Backend / LLM / RAG
+- Monitoring & Observability
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://lume-self.vercel.app/api/projects-card?projects=CareFlow%7C%EC%8A%A4%EB%A7%88%ED%8A%B8+%EB%B3%91%EC%9B%90+AI+%EC%BC%80%EC%96%B4+%EC%86%94%EB%A3%A8%EC%85%98%7C2024.02+%7E+Present%7CSpring+Boot%2C+JPA%2C+QueryDsl%2C+NCP%2C+Docker%2C+Github+Actions%0AYouTIL%7CCommit+%EA%B8%B0%EB%B0%98+TIL+%EC%83%9D%EC%84%B1+%EC%84%9C%EB%B9%84%EC%8A%A4%7C2025.04+-+2025.08%7CAWS%2C+GCP%2C+Docker%2C+k8s%2C+Github+Actions%2C+ArgoCD%2C+Helm%2C+Terraform%0AHELPT%7C%EC%8A%A4%EB%A7%88%ED%8A%B8+%ED%97%AC%EC%8A%A4%EC%9E%A5+%ED%86%B5%ED%95%A9+%EA%B4%80%EB%A6%AC+%EB%B0%8F+%EC%9A%B4%EB%8F%99+%EA%B0%80%EC%9D%B4%EB%93%9C+%ED%94%8C%EB%9E%AB%ED%8F%BC%7C2024.09+-+%7E+2024.12%7CSpring+Boot%2C+JPA%2C+MySQL&mode=light&theme=amber" alt="Minty Projects Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wjdalsdk70&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdalsdk70&layout=compact" height="160" />
 </p>
+
+---
+
+## Contact
+
+- GitHub: [github.com/wjdalsdk70](https://github.com/wjdalsdk70)
+- Email: `dlwjdals7073@gmail.com`
