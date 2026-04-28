@@ -64,24 +64,6 @@ Tech blog aggregation and crawling platform.
 - Designed article collection, parsing, and storage flow
 - Focused on scalable asynchronous processing architecture
 
-### JobCal
-Job application calendar service.
-
-- Designed backend service for job posting collection and calendar integration
-- Built infrastructure and deployment flow for dev/prod environments
-
----
-
-## Experience & Interests
-
-- Cloud Native Backend Development
-- Microservice Architecture
-- Distributed Systems
-- Kafka-based Event Processing
-- Kubernetes & CI/CD
-- AI Backend / LLM / RAG
-- Monitoring & Observability
-
 ---
 
 ## GitHub Stats
