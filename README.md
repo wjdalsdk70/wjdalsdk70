@@ -66,15 +66,6 @@ Tech blog aggregation and crawling platform.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wjdalsdk70&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdalsdk70&layout=compact" height="160" />
-</p>
-
----
-
 ## Contact
 
 - GitHub: [github.com/wjdalsdk70](https://github.com/wjdalsdk70)
